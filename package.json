@@ -6,6 +6,6 @@
 	"license": "Test",
 	"private": false,
 	"dependencies": {
-		"jquery": "2.2.4"
+		"jquery": "3.6.0"
 	}
 }
