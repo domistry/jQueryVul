@@ -1,0 +1,11 @@
+{
+	"name": "jQueryVul",
+	"version": "0.0.1",
+	"description": "Test",
+	"author": "Test",
+	"license": "Test",
+	"private": false,
+	"dependencies": {
+		"jquery": "1.11.0"
+	}
+}
